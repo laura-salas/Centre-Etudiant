@@ -1,6 +1,6 @@
-# Outil de Visualisation de Panier - alpha
+# Outil pour générer une grille horaire à partir du panier - alpha
 
-Pour finalement pouvoir visualiser les cours dans le panier, sans avoir à les ajouter à l'horaire. 
+Pour finalement pouvoir visualiser les cours dans le panier du centre étudiant, sans avoir à les ajouter à l'horaire. 
 
 **À utiliser avec précaution - pourrait bugger à certaines places.**
 
