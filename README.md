@@ -48,13 +48,13 @@ Pour finalement pouvoir visualiser les cours dans le panier, sans avoir à les a
 
 ## Utilisation 1: Panier sur la page inscriptions
 
-![Panier inscriptions](C:\Users\laura\Documents\CentreEtudiantOfFuture\Scheduler\example.png)
+![Panier inscriptions](example.png)
 
 Sélectionner du coin inférieur droit jusqu'au coin supérieur gauche. 
 
 ## Utilisation 2: Panier sur la page de sélection d'un cours:
 
-![Panier simple](C:\Users\laura\Documents\CentreEtudiantOfFuture\Scheduler\exemple2.png)
+![Panier simple](exemple2.png)
 
 Sélectionner de la dernière ligne du dernier cours jusqu'au mot "Pannier". 
 
