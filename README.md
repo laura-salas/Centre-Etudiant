@@ -8,7 +8,7 @@ Pour finalement pouvoir visualiser les cours dans le panier, sans avoir à les a
 
 ## Table de matières
 
-- [Comment l'utiliser](#"Comment l'utiliser")
+- [Comment l'utiliser](#Comment)
 
 - [Utilisation 1: Panier sur "inscriptions"](#Utilisation 1: Panier sur la page inscriptions)
 - [Utilisation 2: Panier sur la page de sélection d'un cours](#Utilisation 2: Panier sur la page de sélection d'un cours:)
