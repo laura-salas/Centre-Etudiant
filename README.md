@@ -11,7 +11,7 @@ Pour finalement pouvoir visualiser les cours dans le panier, sans avoir à les a
 - [Comment l'utiliser](#comment-lutiliser)
 
 - [Utilisation 1: Panier sur "inscriptions"](#utilisation-1-panier-sur-la-page-inscriptions)
-- [Utilisation 2: Panier sur la page de sélection d'un cours](#tilisation-2-panier-sur-la-page-de-sélection-dun-cours)
+- [Utilisation 2: Panier sur la page de sélection d'un cours](#utilisation-2-panier-sur-la-page-de-sélection-dun-cours)
 
 - [Remerciements](#Remerciements)
 
@@ -19,7 +19,7 @@ Pour finalement pouvoir visualiser les cours dans le panier, sans avoir à les a
 
 #### Pre-réquis: 
 
-- [Python 3.8 ou plus récent](https://www.python.org/downloads/)(autres versions peuvent marcher, mais pas garanti)
+- [Python 3.8 ou plus récent](https://www.python.org/downloads/) (autres versions peuvent marcher, mais pas garanti)
 - Git (optionnel)
 - Un ordinateur 
 - Un minimum de joie de vivre 
