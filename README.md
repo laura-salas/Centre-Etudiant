@@ -10,8 +10,8 @@ Pour finalement pouvoir visualiser les cours dans le panier, sans avoir à les a
 
 - [Comment l'utiliser](#comment-lutiliser)
 
-- [Utilisation 1: Panier sur "inscriptions"](#Utilisation 1: Panier sur la page inscriptions)
-- [Utilisation 2: Panier sur la page de sélection d'un cours](#Utilisation 2: Panier sur la page de sélection d'un cours:)
+- [Utilisation 1: Panier sur "inscriptions"](#utilisation-1-panier-sur-la-page-inscriptions)
+- [Utilisation 2: Panier sur la page de sélection d'un cours](#tilisation-2-panier-sur-la-page-de-sélection-dun-cours)
 
 - [Remerciements](#Remerciements)
 
@@ -52,7 +52,7 @@ Pour finalement pouvoir visualiser les cours dans le panier, sans avoir à les a
 
 Sélectionner du coin inférieur droit jusqu'au coin supérieur gauche. 
 
-## Utilisation 2: Panier sur la page de sélection d'un cours:
+## Utilisation 2: Panier sur la page de sélection d'un cours
 
 ![Panier simple](exemple2.png)
 
